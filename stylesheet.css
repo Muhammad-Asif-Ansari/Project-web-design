@@ -62,9 +62,9 @@ i{
     color: white;
 }
 .mid-head>p{
-    color:green ;
+    color:rgb(6, 0, 128) ;
     margin-top: 5px;
-    margin-right:50px;
+    font-weight: bold;
 }
 .main{
     width: 100%;
